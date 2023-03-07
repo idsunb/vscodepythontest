@@ -13,4 +13,7 @@ def main() -> None:
 if __name__ == "__main__": 
     main() 
 
-#创建github仓库
+#print some work like "hello"
+def printHelloWorld() -> None: 
+    print("Hello World")    
+
